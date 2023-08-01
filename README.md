@@ -2,7 +2,7 @@
 - I’m interested in Software/Web development
 - I know intermediate c#/c++/sql/html/css
 - I’m currently learning phyton/java script/php/c/swift/go 
-- I'm currently High School student in software development
+- I'm currently high school student in software development
 - Reach me on email dusankocic111@gmail.com
 
 <!---
