@@ -1,7 +1,7 @@
 - Hi, I’m @dusankoc1c
 - I’m interested in Software/Web development
 - I know intermediate c#/c++/sql/html/css/javascript
-- I’m currently learning phyton/jquery/c
+- I’m currently learning python/jquery/c
 - Informatics Technology Student at Metropolitan University in Niš
 - Reach me on email dusankocic111@gmail.com
 
